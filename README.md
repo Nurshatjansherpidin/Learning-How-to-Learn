@@ -23,5 +23,5 @@ Repeation is required to bring what is in the working memory to your long-term m
 * Get into enriched environment where you have people around to stimulate new ideas, or do regular exercise 
 * Execise helps develop ability to learn and also helps retain memory 
 
-### Additional Works 
-* 
+## Week 2 
+Just wanting to learn and spending a lot of time does not guranteee that you will actually learn it.
