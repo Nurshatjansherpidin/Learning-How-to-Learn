@@ -25,3 +25,17 @@ Repeation is required to bring what is in the working memory to your long-term m
 
 ## Week 2 
 Just wanting to learn and spending a lot of time does not guranteee that you will actually learn it.
+
+Chunk 
+What is chunk?
+Chunk is a set of information connected through its meaning, it is like a puzzel where every piece connects to one another to form the whole picture. Chunk makes your brain to work more efficiently.
+
+How to form a chunk ?
+You can use bottom-up and top-down approaches to form chunks. Learning grammar helps you form structures of a language and words to fill the gaps in between.
+
+Illusion of Competence.
+When you think you it but you actually do not know it. You are the most easiest person that you could fool.
+
+Additional information 
+Scott Young 
+This guy took the "MIT" challenge, finishing a four-year Computer science cirriculum in only 12-month's time. 
